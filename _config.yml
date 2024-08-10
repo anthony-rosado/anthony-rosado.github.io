@@ -1,2 +1,5 @@
 title: Anthony Rosado - Desarrollador back-end
 description: Portafolio web de Anthony Rosado
+nav_enabled: true
+color_scheme: dark
+favicon_ico: "favicon.ico"
